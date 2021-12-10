@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ha Yen
-- 👀 I’m interested in Machine Learning and Data analyst
+- 👀 I’m interested in Data analyst and Machine Learning 
 - 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning project
+- 💞️ I’m looking to collaborate on Data Analyst project, Machine Learning project
 - 📫 How to reach me hayennguyen79@gmail.com
 
 ### Connect with me:
